@@ -11,7 +11,7 @@ body{
 .contenedor{
     background: #edf0f9;
     width: 40%;   /* ancho */
-    height: 50vh;
+    height: 40vh;
     padding: 10px;
     border-radius: 8px;
     box-shadow: 12px 12px 20px #020202, -12px -12px 20px #ffffff;
@@ -48,7 +48,7 @@ body{
 
 .botones .row button{
     width: 100px; 
-    height: 30px; 
+    height: 31px; 
     font-size: 15px; 
     border: none;
     outline: none;
